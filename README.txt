@@ -50,3 +50,4 @@ Testwebsite is a custom WordPress theme, build for testing purposes.
 == Image Credit ==
 
 https://pixabay.com/en/headphones-earphones-laptop-405886/ - Screenshot and header banner
+https://pixabay.com/en/new-york-sunset-674546/ - Screenshot and header banner
