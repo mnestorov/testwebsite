@@ -13,7 +13,7 @@
  * @see 	    http://docs.woothemes.com/document/template-structure/
  * @author 		WooThemes
  * @package 	WooCommerce/Templates
- * @version     2.3.2
+ * @version     4.6
  */
 global $product;
 
